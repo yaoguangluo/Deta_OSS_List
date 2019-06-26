@@ -11,10 +11,11 @@
 
 ##### 罗瑶光先生个人荣誉：
  
-###### Github member.  
-###### IEEE member.  
-###### AICTE member. 
-###### ACM member
+###### Github Member.  
+###### Gitee Writer & Thinker
+###### IEEE Member.  
+###### AICTE Member. 
+###### ACM Member
 ###### ACM Pro Member. 
 ###### Deta OSS Member
 ###### 总参炮兵学院南京分院 工学学士。
@@ -22,7 +23,7 @@
 ###### 美国加利福尼亚路德大学 荣誉理学硕士。
 ###### 连续6个月催化计算分词性能世界第一。
 ###### 基于快速排序4催化的小高峰排序3代算法性能世界第一。
-###### 个人 德塔 PLSQL 数据语言作者 . 个人 德塔 PLSQL Socket数据库引擎研发作者。
+###### 个人 德塔 PLSQL 数据语言作者 . 个人 德塔 PLSQL Socket数据库引擎研发作者 Cn: 2019R11L885247。
 ###### 个人 ETL数据流处理软件研发引擎作者。Cn: 2019R11L803285
 ###### 个人 德塔自然语言图灵系统研发作者。   Cn: 2019SR0530609（个人）软著登字第3951366号
 ###### 个人 德塔 VPCS Socket流并发服务器独立作者（每秒400万QPS）。
