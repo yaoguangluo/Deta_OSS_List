@@ -35,13 +35,13 @@
 ###### 美国 Comforx 软件公司法人. 浏阳德塔软件开发有限公司 法人 
 
 ##### 论文:
-###### <<VPCS Backend Theory And Its Application>>
-###### <<Theory of Mind Reading Based on Deta AI>>
-###### <<AOPM Open Source System On SDLC Theory>>
-###### <<Deta_Database_PLSQL>> 
-###### <<Audio NLP & Wavelet Research Based on Java>>
-###### <<The Data Mining Software of The Rich Architecture>>
-###### <<A New Text Mining Method Which is Based on the Bayes System>>
+###### <VPCS Backend Theory And Its Application>
+###### <Theory of Mind Reading Based on Deta AI>
+###### <AOPM Open Source System On SDLC Theory>
+###### <Deta_Database_PLSQL>>
+###### <Audio NLP & Wavelet Research Based on Java>
+###### <The Data Mining Software of The Rich Architecture>
+###### <A New Text Mining Method Which is Based on the Bayes System>
 
 ##### 最近：
 ###### 作者的个人课题一    基于时序情感 词汇 的 费洛蒙信息素 盲解析。
