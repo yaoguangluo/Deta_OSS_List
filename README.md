@@ -34,8 +34,16 @@
 ###### 养疗经9  TMZC00000039193470ZCSQ01 cn 39193470-TMZC39193470ZCSL01 (中华人民共和国 国家知识产权局)
 ###### 美国 Comforx 软件公司法人. 浏阳德塔软件开发有限公司 法人 
 
-##### 最近：
+##### 论文:
+###### <<VPCS Backend Theory And Its Application>>
+###### <<Theory of Mind Reading Based on Deta AI>>
+###### <<AOPM Open Source System On SDLC Theory>>
+###### <<Deta_Database_PLSQL>> 
+###### <<Audio NLP & Wavelet Research Based on Java>>
+###### <<The Data Mining Software of The Rich Architecture>>
+###### <<A New Text Mining Method Which is Based on the Bayes System>>
 
+##### 最近：
 ###### 作者的个人课题一    基于时序情感 词汇 的 费洛蒙信息素 盲解析。
 ###### 作者的个人课题二  《VPCS 微分催化和类人DNA数据进化计算理念》 中的 DNA initons 分类盲杂交突破点 。
 ###### 作者的个人课题三    同时有2年 对 低频 微傅阶超声波领域 感兴趣。 
