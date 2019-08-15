@@ -44,6 +44,9 @@
 ###### Audio NLP & Wavelet Research Based on Java
 ###### The Data Mining Software of The Rich Architecture
 ###### A New Text Mining Method Which is Based on the Bayes System
+###### Paper: V PLC Structure Research for DL By Using 8085
+###### Paper: Data Structure Research for Medicine Management By Using C
+###### Paper: Data Operations Research for Medicine Management By Using Cobol 74
 
 ##### 最近：
 ###### 作者的个人课题一    基于时序情感 词汇 的 费洛蒙信息素 盲解析。
