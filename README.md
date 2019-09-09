@@ -24,31 +24,33 @@
 ###### 基于快速排序4催化的小高峰排序3代算法性能世界第一。
 ###### Github Trending 99th Weeks 
 ###### Github Trending ALL Top 25th Languages
-###### 个人 德塔 PLSQL 数据语言作者.
-###### （个人）中华人民共和国 软著登字第4317518号
-###### 个人 德塔 PLSQL Socket数据库引擎研发作者。Cn: 2019R11L885247 (中华人民共和国 国家版权局)
-###### （个人）中华人民共和国 软著登字第4240558号
-###### 个人 ETL数据流处理软件研发引擎作者。Cn: 2019R11L803285 (中华人民共和国 国家版权局)
-###### 个人 德塔自然语言图灵系统研发作者。   Cn: 2019SR0530609（个人）软著登字第3951366号 (中华人民共和国 国家版权局)
+###### 个人 德塔数据结构变量快速转换 作者。
+###### 个人 德塔 PLSQL 数据语言作者。
+###### （个人）中华人民共和国 软著登字第4317518号。
+###### 个人 德塔 PLSQL Socket数据库引擎研发作者。Cn: 2019R11L885247 (中华人民共和国 国家版权局)。
+###### （个人）中华人民共和国 软著登字第4240558号。
+###### 个人 ETL数据流处理软件研发引擎作者。Cn: 2019R11L803285 (中华人民共和国 国家版权局)。
+###### 个人 德塔自然语言图灵系统研发作者。   Cn: 2019SR0530609（个人）软著登字第3951366号 (中华人民共和国 国家版权局)。
 ###### 个人 德塔Socket流并发服务器独立作者（每秒400万QPS）。
 ###### 个人 VPCS 微分催化和类人DNA数据进化计算理念算法 作者。
-###### 个人 德塔数据分析算法 Java 引擎系统 作者。Cn: 2019R11L1122752 (中华人民共和国 国家版权局)
+###### 个人 德塔数据分析算法 Java 引擎系统 作者。Cn: 2019R11L1122752 (中华人民共和国 国家版权局)。
 ###### 作为金融数据分析师研究并持股数十家基金与上市股份。
-###### 华瑞集35 42 TMZC00000039183063ZCSQ01 cn 39183063-TMZC39183063ZCSL01 (中华人民共和国 国家知识产权局)
-###### 养疗经35 9  TMZC00000039193470ZCSQ01 cn 39193470-TMZC39193470ZCSL01 (中华人民共和国 国家知识产权局)
-###### 美国 Comforx 软件公司法人. 浏阳德塔软件开发有限公司 法人 
+###### 华瑞集35 42 TMZC00000039183063ZCSQ01 cn 39183063-TMZC39183063ZCSL01 (中华人民共和国 国家知识产权局)。
+###### 养疗经35 9  TMZC00000039193470ZCSQ01 cn 39193470-TMZC39193470ZCSL01 (中华人民共和国 国家知识产权局)。
+###### 美国 Comforx 软件公司法人. 浏阳德塔软件开发有限公司 法人 。
 
 ##### 论文:
-###### VPCS Backend Theory And Its Application
-###### Theory of Mind Reading Based on Deta AI
-###### AOPM Open Source System On SDLC Theory
-###### Deta_Database_PLSQL
-###### Audio NLP & Wavelet Research Based on Java
-###### The Data Mining Software of The Rich Architecture
-###### A New Text Mining Method Which is Based on the Bayes System
-###### Paper: V PLC Structure Research for DL By Using 8085
-###### Paper: Data Structure Research for Medicine Management By Using C
-###### Paper: Data Operations Research for Medicine Management By Using Cobol 74
+###### Paper: Theory on Yaoguang's Split Peak Defect 1.020190908 FIX。
+###### VPCS Backend Theory And Its Application。
+###### Theory of Mind Reading Based on Deta AI。
+###### AOPM Open Source System On SDLC Theory。
+###### Deta_Database_PLSQL。
+###### Audio NLP & Wavelet Research Based on Java。
+###### The Data Mining Software of The Rich Architecture。
+###### A New Text Mining Method Which is Based on the Bayes System。
+###### Paper: V PLC Structure Research for DL By Using 8085。
+###### Paper: Data Structure Research for Medicine Management By Using C。
+###### Paper: Data Operations Research for Medicine Management By Using Cobol 74。
 
 ##### 最近：
 ###### 作者的个人课题一    基于时序情感 词汇 的 费洛蒙信息素 盲解析。
