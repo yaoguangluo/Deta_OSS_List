@@ -41,13 +41,13 @@
 
 ##### 论文:
 ###### Paper: Theory on Yaoguang's Split Peak Defect 1.020190908 FIX。
-###### VPCS Backend Theory And Its Application。
-###### Theory of Mind Reading Based on Deta AI。
-###### AOPM Open Source System On SDLC Theory。
-###### Deta_Database_PLSQL。
-###### Audio NLP & Wavelet Research Based on Java。
-###### The Data Mining Software of The Rich Architecture。
-###### A New Text Mining Method Which is Based on the Bayes System。
+###### Paper: VPCS Backend Theory And Its Application。
+###### Paper: Theory of Mind Reading Based on Deta AI。
+###### Paper: AOPM Open Source System On SDLC Theory。
+###### Paper: Deta_Database_PLSQL。
+###### Paper: Audio NLP & Wavelet Research Based on Java。
+###### Paper: The Data Mining Software of The Rich Architecture。
+###### Paper: A New Text Mining Method Which is Based on the Bayes System。
 ###### Paper: V PLC Structure Research for DL By Using 8085。
 ###### Paper: Data Structure Research for Medicine Management By Using C。
 ###### Paper: Data Operations Research for Medicine Management By Using Cobol 74。
