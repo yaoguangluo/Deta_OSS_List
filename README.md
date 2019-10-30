@@ -22,8 +22,10 @@
 ###### 美国加利福尼亚路德大学 荣誉理学硕士。
 ###### 连续6个月催化计算分词性能世界第一。
 ###### 基于快速排序4催化的小高峰排序3代算法性能世界第一。
-###### Github Trending 99th Weeks 
-###### Github Trending ALL Top 25th Languages
+###### 基于快速排序4催化的小高峰排序3代算法 实现的 极速象契混合字符串排序 世界第一。
+###### Github Trending 99th Weeks。
+###### Github Trending ALL Top 25th Languages。
+###### Gitee 2 Explores。
 ###### 个人 德塔数据结构变量快速转换 作者 Cn:2019R11L1293422  (中华人民共和国 国家版权局)。
 ###### 个人 德塔 PLSQL 数据语言作者。
 ###### （个人）中华人民共和国 软著登字第4317518号。
