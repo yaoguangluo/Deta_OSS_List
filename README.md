@@ -2,14 +2,13 @@
 
 ## 罗瑶光先生
 ##### 作为德塔开源创始人，一直专注于数据智能领域十余年， 抱着学徒的心态，作者先后游学中国，印度，美国并广泛的就读工学，工程学和理学的计算机硕士和研究生课程。并进行4年国内硬件技术员 和 4年海外信息技术工作实践。通过大量计算机日志笔记和学习手稿反复札记思想，罗瑶光先生先后设计了 10 篇 数据基础研究论文并进行18个偶合系统工程实践，率先提出<<VPCS 微分催化和类人DNA数据进化计算理念>>，并进行相关开源项目进行反复持续和详细论证。
-##### 罗瑶光先生个人作品, 咨讯履历集：
+##### 罗瑶光先生个人作品, 荣誉, 咨讯履历集：
 
 ###### http://tinos.qicp.vip 
 ###### https://github.com/yaoguangluo
 ###### https://gitee.com/DetaChina
 ###### https://www.linkedin.com/in/yaoguangluo/
 
-##### 罗瑶光先生个人作品, 荣誉, 资质：
 ###### Github Member.  
 ###### Gitee Writer & Thinker
 ###### IEEE Member.  
@@ -18,8 +17,8 @@
 ###### ACM Pro Member. 
 ###### Deta OSS Member
 
-###### 总参炮兵学院南京分院 工学学士。
-###### 印度基督大学 （班加罗尔大学基督学院）荣誉工学硕士 TC。
+###### 中国人民解放军陆军炮兵防空兵学院 (总参炮兵学院 南京分院) 工学学士。
+###### 印度基督大学 （班加罗尔大学 基督学院） 荣誉工学硕士 TC。
 ###### 美国加利福尼亚路德大学 荣誉理学硕士。
 
 ###### 连续6个月催化计算分词性能世界第一。
@@ -33,13 +32,14 @@
 ###### Github Trending yaoguangluo/Deta_Cache 
 ###### Github Trending yaoguangluo/DETA_BackEnd 
 ###### Github Trending yaoguangluo/NeroParser 
-
 ###### Gitee Explore：Data Swap 。 
 ###### Gitee Explore：Deta Parser。 
 ###### Gitee Explore：Deta ETL。 
-
-###### Parser: 2019 四会插件排名世界第二位 
+###### Parser: 2019 四会插件排名世界第二位, Deloitte
 ###### MIIT: Medal 2019
+###### 2008, AICTE 印度GATEWAY, Bangalore
+###### 2012-3, IEEE 美国好奇号火星登陆分析 Thousand Oaks
+###### 2019, 世界计算机大会, ChangSha
 
 ###### 个人软著 快速数据预测算法引擎系统 V1.0.0 软著登字第 5447819 号 (中华人民共和国 国家版权局).
 ###### 个人 德塔数据结构变量快速转换 作者 Cn:2019R11L1293422  (中华人民共和国 国家版权局).
@@ -74,7 +74,7 @@
 
 ###### 美国 Comforx 软件公司法人. 浏阳德塔软件开发有限公司 法人 。
 ###### 《华瑞集》 医学大数据辅助学习软件作者（目标思想：罗荣武， 逻辑执行：罗瑶光）
-###### 《养疗经》 医学养生辅助诊疗软件作者  （目标思想：罗荣武， 逻辑执行：罗瑶光）
+###### 《养疗经》 医学养生辅助诊疗软件作者（目标思想：罗荣武， 逻辑执行：罗瑶光）
 
 ##### 论文:
 ###### Paper: Theory on Yaoguang's Split Peak Defect 1.020190908 FIX。
