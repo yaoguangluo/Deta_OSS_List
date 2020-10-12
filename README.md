@@ -39,6 +39,7 @@
 
 ###### Parser: 2019 四会插件排名世界第二位, Deloitte
 ###### MIIT: Medal 2019
+###### 世界数据档案馆: Medal 2020 Arctic Code Vault Contributor, PIQL, SNSK, AWA, Kongeriket Norge
 ###### 嘉宾 2008, AICTE 印度GATEWAY, Bangalore
 ###### 嘉宾 2012-3, IEEE 美国好奇号火星登陆分析 Thousand Oaks
 ###### 嘉宾 2019, 世界计算机大会, ChangSha
