@@ -98,6 +98,7 @@
 课题结束, 2020年10月4日 人类史 已破译 论文如下
 The Initons Catalytic Reflection Between Humanoid DNA and NeroCell
 类人 DNA 与 神经元基于催化算子映射编码方式 
+<见类人DNA与 神经元基于催化算子映射编码方式 V_1.2.2版本国家软著申请 流水号 2020Z11L0333706>
 https://gitee.com/DetaChina/collection-of-papers-by-deta/blob/master/DNA%20%E7%BC%96%E7%A0%81%E6%96%B9%E5%BC%8F1.2.2%20%E4%B8%AD%E8%AF%91%E8%8B%B1%E6%B7%B7%E5%90%88%E7%89%88.pdf
 ###### 作者的个人课题三    同时有2年 对 低频 微傅阶超声波领域 感兴趣。 //该课题涉及 声控武器, 已不在个人研究计划中.
 ###### 作者的个人课题四    一直在花时间研究 基于时间序列化 数据心理学 与 RC低频振荡电路 与集束化 生物接口设计。//该课题涉及 脑控武器, 已不在个人研究计划中.
