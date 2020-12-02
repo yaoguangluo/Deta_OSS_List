@@ -139,7 +139,7 @@
 ###### https://github.com/yaoguangluo/Deta_Resource/blob/master/%E8%91%97%E4%BD%9C%E6%9D%83%E7%89%88%E6%9C%ACPDE_Formular_1_2_2.pdf
 
 ##### 新增:
-###### <<DNA 催化 与 肽展计算 和 AOPM-TXH-VECS-IDUQ 元基解码 V013_026中文版本 已经提交 河南华夏华知代理 国家软著申请>>
+###### <<DNA 催化 与 肽展计算 和 AOPM-TXH-VECS-IDUQ 元基解码 V013_026中文版本 已经提交 河南华夏华知代理 国家软著 流水号以下 2020Z11L0386462>>
 ###### The DNA Catalytic & PDE Computing and The Derivation of New TXH INITONS
 ###### https://gitee.com/DetaChina/collection-of-papers-by-deta/blob/master/DNA%20Initon%20%E8%A7%A3%E7%A0%81%20013026%E8%BD%AF%E8%91%97%E7%94%B3%E8%AF%B7%E4%B8%AD%E6%96%87%E6%9C%80%E7%BB%88%E7%89%88%E6%9C%AC.pdf
 ###### https://github.com/yaoguangluo/Deta_Resource/blob/master/DNA%20Initon%20%E8%A7%A3%E7%A0%81%20013026%E8%BD%AF%E8%91%97%E7%94%B3%E8%AF%B7%E4%B8%AD%E6%96%87%E6%9C%80%E7%BB%88%E7%89%88%E6%9C%AC.pdf
