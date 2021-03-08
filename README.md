@@ -43,6 +43,7 @@
 ###### 人类史首次推导与定义: 碱基对 Rotation 观测 与 黄嘌呤在 DNA 编码 和 肽计算 中具体定义为 VECS-EC 尿变鸟 嘌呤.
 ###### 人类史首次推导与定义: VECS-EC 尿变鸟嘌呤, 黄嘌呤肽展计算 AOPM-OP-T 变感腺尿变苷与 AOPM-OP-X 变感 腺鸟苷.
 ###### 人类史首次归纳与定义: DNA 与 TX-H-U 元基解码. 11 推导与定义: DNA 元基催化计算与 ETL 肽展神经网络计算流.
+###### 人类史首次归纳与定义: DNA元基非对称加密作者，生化语义罗盘作者，肽元基视觉计算作者，等。
 
 ###### Github Trending 99th Weeks.
 ###### Github Trending ALL Top 25th Languages.
@@ -79,12 +80,15 @@
 ###### 个人 中华人民共和国 软著登字第4584594号.
 ###### 个人 快速数据预测算法引擎系统 作者。Cn: 2020R11L186818 (中华人民共和国 国家版权局)。
 ###### 个人著作申请中 <AOPM VECS IDUQ 肽展公式推导与元基编码进化计算以及它的应用发现 1.2.2> <已提交,国家著作申请 流水号 2020Z11L0356797>
+###### 个人国作登字-2021-A-00042587  (中华人民共和国 国家版权局)
 ###### 多人著作(罗瑶光, 罗荣武) 类人DNA与 神经元基于催化算子映射编码方式 V_1.2.2 版本<已提交,国家著作申请 流水号 2020Z11L0333706>
 ###### 个人著作申请中 <DNA 催化 与 肽展计算 和 AOPM-TXH-VECS-IDUQ 元基解码 V013_026中文版本>  <正提交代理 中华人民共和国国家软著申请 已拿流水号 2020Z11L0386462>
+###### 个人国作登字-2021-A-00042586  (中华人民共和国 国家版权局)
 ###### 国商字第 40126364 号 (中华人民共和国 国家知识产权局)
 ###### 国商字第 39193470 号 (中华人民共和国 国家知识产权局)
 ###### 国商字第 40126765 号 (中华人民共和国 国家知识产权局)
 ###### 国商字第 39183063 号 (中华人民共和国 国家知识产权局)
+###### 多人著作(罗瑶光, 罗荣武) DNA元基催化与肽计算第二卷 养疗经应用研究 20210305 申请。
 
 ###### 华瑞集35 42 TMZC00000039183063ZCSQ01 cn 39183063-TMZC39183063ZCSL01 (中华人民共和国 国家知识产权局)。
 ###### 养疗经35 9 TMZC00000039193470ZCSQ01 cn 39193470-TMZC39193470ZCSL01 (中华人民共和国 国家知识产权局)。
@@ -119,7 +123,7 @@
 
 ##### 最近：
 ###### 作者的个人课题一 基于时序情感 词汇 的 费洛蒙信息素 盲解析。该课题涉及 生化武器, 已不在个人研究计划中.(计划已截止.)
-######  费洛蒙信息素 已解码.
+###### 费洛蒙信息素 已解码.
 ###### https://github.com/yaoguangluo/Deta_Catalytic_DNA/blob/master/TinGod/org/humanoid/tin/catalytic/procedure/pde/PDE_Formular.java
 
 ##### 作者的个人课题二 《VPCS 微分催化和类人DNA数据进化计算理念》 中的 DNA initons 分类盲杂交突破点 。
@@ -134,12 +138,14 @@
 
 ##### 新增:
 ###### AOPM VECS IDUQ 肽展公式推导与元基编码进化计算以及它的应用发现 1.2.2 国家软著申请 流水号 <2020Z11L0356797>
+###### 国作登字-2021-A-00042587
 ###### AOPM-VECS-IDUQ Catalytic INITONS PDE LAW and Its Application
 ###### https://gitee.com/DetaChina/collection-of-papers-by-deta/blob/master/%E8%91%97%E4%BD%9C%E6%9D%83%E7%89%88%E6%9C%ACPDE_Formular_1_2_2.pdf
 ###### https://github.com/yaoguangluo/Deta_Resource/blob/master/%E8%91%97%E4%BD%9C%E6%9D%83%E7%89%88%E6%9C%ACPDE_Formular_1_2_2.pdf
 
 ##### 新增:
 ###### <<DNA 催化 与 肽展计算 和 AOPM-TXH-VECS-IDUQ 元基解码 V013_026中文版本 已经提交 河南华夏华知代理 国家软著 流水号以下 2020Z11L0386462>>
+###### 国作登字-2021-A-00042586
 ###### The DNA Catalytic & PDE Computing and The Derivation of New TXH INITONS
 ###### https://gitee.com/DetaChina/collection-of-papers-by-deta/blob/master/DNA%20Initon%20%E8%A7%A3%E7%A0%81%20013026%E8%BD%AF%E8%91%97%E7%94%B3%E8%AF%B7%E4%B8%AD%E6%96%87%E6%9C%80%E7%BB%88%E7%89%88%E6%9C%AC.pdf
 ###### https://github.com/yaoguangluo/Deta_Resource/blob/master/DNA%20Initon%20%E8%A7%A3%E7%A0%81%20013026%E8%BD%AF%E8%91%97%E7%94%B3%E8%AF%B7%E4%B8%AD%E6%96%87%E6%9C%80%E7%BB%88%E7%89%88%E6%9C%AC.pdf
