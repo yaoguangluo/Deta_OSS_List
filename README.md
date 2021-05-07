@@ -133,6 +133,7 @@
 
 ##### 类人 DNA 与 神经元基于催化算子映射编码方式 
 ###### <见类人DNA与 神经元基于催化算子映射编码方式 V_1.2.2版本国家软著申请 流水号 <2020Z11L0333706> 
+###### 多人，国作登字-2021-A-00097017
 ###### https://gitee.com/DetaChina/collection-of-papers-by-deta/blob/master/DNA%20%E7%BC%96%E7%A0%81%E6%96%B9%E5%BC%8F1.2.2%20%E4%B8%AD%E8%AF%91%E8%8B%B1%E6%B7%B7%E5%90%88%E7%89%88.pdf
 ###### https://github.com/yaoguangluo/Deta_Resource/blob/master/DNA%20%E7%BC%96%E7%A0%81%E6%96%B9%E5%BC%8F1.2.2%20%E4%B8%AD%E8%AF%91%E8%8B%B1%E6%B7%B7%E5%90%88%E7%89%88.pdf
 
