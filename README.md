@@ -61,9 +61,9 @@
 ###### 世界数据档案馆: Medal 2020 Arctic Code Vault Contributor, PIQL, SNSK, AWA, Kongeriket Norge.
 
 ###### 嘉宾 2008, AICTE 印度GATEWAY, Bangalore.
-###### 嘉宾 2012-3, IEEE 美国好奇号火星登陆分析 Thousand Oaks.
+###### 嘉宾 2012-3, IEEE 美国好奇号火星登陆分析 Thousand Oaks. IDyaoguang@clunet.edu
 ###### 嘉宾 2019, 世界计算机大会, ChangSha, ID15116110525-52501688
-###### 嘉宾 2021, 世界计算大会, ChangSha , ID96180754
+###### 嘉宾 2021, 世界计算大会, ChangSha , ID15116110525-96180754
 
 ###### 个人软著 快速数据预测算法引擎系统 V1.0.0 软著登字第 5447819 号 (中华人民共和国 国家版权局).
 ###### 个人 德塔数据结构变量快速转换 作者 Cn:2019R11L1293422 (中华人民共和国 国家版权局).
