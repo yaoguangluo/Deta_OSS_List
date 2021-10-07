@@ -60,6 +60,7 @@
 ###### Parser: 2019 四会插件排名世界第二位, Deloitte.
 ###### MIIT: Medal 2019.
 ###### 世界数据档案馆: Medal 2020 Arctic Code Vault Contributor, PIQL, SNSK, AWA, Kongeriket Norge.
+###### OpenSourceSoftware.Xyz: Top 25 open source softwares projects of pos in 2021
 
 ###### 嘉宾 2008, AICTE 印度GATEWAY, Bangalore.
 ###### 嘉宾 2012-3, IEEE 美国好奇号火星登陆分析 Thousand Oaks. IDyaoguang@clunet.edu
