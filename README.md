@@ -139,6 +139,7 @@
 ###### 美国 Comforx 软件公司法人. 浏阳德塔软件开发有限公司 法人 。
 
 ##### 论文:
+###### paper: The DNA Catalytic & PDE Computing and The Derivation of New TXH INITONS 013026
 ###### paper: The Definition of The Methyl-cytosine in DNA Catalytic Computing and The Derivation of The IDUQ-U of The L-Pyrimidine
 ###### Paper: AOPM-VECS-IDUQ Catalytic INITONS PDE LAW and Its Application
 ###### Paper: The INITONS Catalytic Reflection Between Humanoid DNA and Nero Cell
@@ -154,6 +155,7 @@
 ###### Paper: Data Structure Research for Medicine Management By Using C。
 ###### Paper: Data Operations Research for Medicine Management By Using Cobol 74。
 ###### ppt: computer-security, https://prezi.com/u05vkj1g3gm8/computer-security-project/
+
 #### 最近：
 ##### 作者的个人课题一 基于时序情感 词汇 的 费洛蒙信息素 盲解析。该课题涉及 生化武器, 已不在个人研究计划中.(计划已截止.)(计划持续201810~201903 已经永久停止.)
 ###### 费洛蒙信息素 已解码.
