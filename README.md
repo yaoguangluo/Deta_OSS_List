@@ -59,6 +59,7 @@
 ###### 人类史首次推导与定义: VECS-EC 尿变鸟嘌呤, 黄嘌呤肽展计算 AOPM-OP-T 变感腺尿变苷与 AOPM-OP-X 变感 腺鸟苷.
 ###### 人类史首次归纳与定义: DNA 与 TX-H-U 元基解码. 11 推导与定义: DNA 元基催化计算与 ETL 肽展神经网络计算流.
 ###### 人类史首次归纳与定义: DNA元基非对称加密作者，生化语义罗盘作者，肽元基视觉计算作者，等。
+###### 世界首次提出 三元 主谓宾 DNA编码字典规范。著作权文件形式出现。
 
 ###### Github Trending 99th Weeks
 ###### Github Trending ALL Top 25th Languages
