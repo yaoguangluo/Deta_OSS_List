@@ -146,7 +146,8 @@
 ###### Paper: Theory of Mind Reading Based on Deta AI。
 ###### Paper: AOPM Open Source System On SDLC Theory。
 ###### Paper: Deta_Database_PLSQL。
-###### Paper: The Object Exchange using Bluetooth Based on C# (发现漏了这个，大家可以比对下和2009年章鑫杰 上海世博会的蓝牙广告机无关。还有那个c#封装Dll etl 我和张继斌一人一套，我在美国和上海帆腾无任何关系，倒是在彭教授面前吹了两次牛，关于drupal和tattler， 说了这两个词汇，是头天章鑫杰说给我听的。2010年冬，有时候我在想这些人老给我些封装加密的dll工程，动机是什么？)
+###### Paper: Lifray OSGI Theme Application.
+###### Paper: The Object Exchange using Bluetooth Based on C#.
 ###### Paper: Audio NLP & Wavelet Research Based on Java。
 ###### Paper: The Data Mining Software of The Rich Architecture。
 ###### Paper: A New Text Mining Method Which is Based on the Bayes System。
